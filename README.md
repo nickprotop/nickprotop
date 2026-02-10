@@ -1,8 +1,10 @@
 # Nick Protopapas
 
-**.NET Developer | Terminal UI Specialist | Linux-first**
+**Neurologist, MD, MSc | .NET Developer | Terminal UI Specialist | Linux-first**
 
-Building developer tools and terminal applications with C# and .NET — proving that .NET is a first-class citizen on Linux.
+Neurologist at Attica Rehabilitation Center and Diaplasis Rehabilitation Center in Greece. MSc in Neurophysiology of Stress. Co-author of the Greek standardization of WAB-R (Western Aphasia Battery-Revised, Pearson 2024).
+
+Building developer tools and terminal applications with C# and .NET since the KDE 3 era — from kobex, kdvdbackup and ICD Browser on aperitto.com, through Windows Mobile tools, to today's .NET TUI ecosystem.
 
 ---
 
