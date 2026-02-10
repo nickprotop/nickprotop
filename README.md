@@ -13,24 +13,24 @@ Building developer tools and terminal applications with C# and .NET — proving 
 A .NET console window system with controls like TreeControl, ListControl, Toolbar, Modals, and more. Built on Spectre.Console. The foundation powering all the tools below.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/nickprotop/ConsoleEx/main/docs/images/showcase.gif" width="700" alt="SharpConsoleUI Showcase" />
+<img src="https://raw.githubusercontent.com/nickprotop/ConsoleEx/master/docs/images/showcase.gif" width="700" alt="SharpConsoleUI Showcase" />
 </p>
 
 <details>
 <summary>More screenshots</summary>
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/nickprotop/ConsoleEx/main/docs/images/examples/agentstudio.png" width="700" alt="AgentStudio - AI Coding Agent TUI" />
+<img src="https://raw.githubusercontent.com/nickprotop/ConsoleEx/master/docs/images/examples/agentstudio.png" width="700" alt="AgentStudio - AI Coding Agent TUI" />
 <br><sub>AgentStudio — OpenCode-inspired AI coding agent interface</sub>
 </p>
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/nickprotop/ConsoleEx/main/docs/images/examples/consoletop-processes.png" width="700" alt="ConsoleTop - System Monitor" />
+<img src="https://raw.githubusercontent.com/nickprotop/ConsoleEx/master/docs/images/examples/consoletop-processes.png" width="700" alt="ConsoleTop - System Monitor" />
 <br><sub>ConsoleTop — htop-style system monitor with toolbar, tabs, and detail panels</sub>
 </p>
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/nickprotop/ConsoleEx/main/docs/images/examples/multidashboard.png" width="700" alt="Multi-Dashboard - Async Windows" />
+<img src="https://raw.githubusercontent.com/nickprotop/ConsoleEx/master/docs/images/examples/multidashboard.png" width="700" alt="Multi-Dashboard - Async Windows" />
 <br><sub>Multi-Dashboard — independent async windows updating at different rates</sub>
 </p>
 </details>
@@ -54,7 +54,7 @@ CLI tool and TUI editor for managing localization files. Supports `.resx`, JSON,
 TUI server monitoring and management dashboard for Linux. Real-time metrics, logs, and remote control from your terminal. Extensible through a [widget registry](https://github.com/nickprotop/serverhub-registry).
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/nickprotop/ServerHub/main/.github/Screenshot.png" width="700" alt="ServerHub Dashboard" />
+<img src="https://raw.githubusercontent.com/nickprotop/ServerHub/main/.github/dashboard-overview.png" width="700" alt="ServerHub Dashboard" />
 </p>
 
 ---
