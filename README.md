@@ -61,9 +61,13 @@ TUI server monitoring and management dashboard for Linux. Real-time metrics, log
 
 ---
 
-### [lazynuget](https://github.com/nickprotop/lazynuget) &nbsp; `coming soon`
+### [LazyNuGet](https://github.com/nickprotop/lazynuget) &nbsp; ![Stars](https://img.shields.io/github/stars/nickprotop/lazynuget?style=flat&color=blue)
 
-TUI for managing NuGet packages across .NET solutions. Search, update, and manage dependencies from your terminal.
+Terminal-based NuGet package manager inspired by lazygit. Browse projects, view package details, check for updates, and search NuGet.org—all from your terminal with keyboard-driven navigation.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nickprotop/lazynuget/main/.github/dashboard-overview.png" width="700" alt="LazyNuGet Dashboard" />
+</p>
 
 ---
 
