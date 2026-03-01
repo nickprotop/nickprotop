@@ -71,4 +71,14 @@ Terminal-based NuGet package manager inspired by lazygit. Browse projects, view 
 
 ---
 
+### [LazyDotIDE](https://github.com/nickprotop/lazydotide) &nbsp; ![Stars](https://img.shields.io/github/stars/nickprotop/lazydotide?style=flat&color=blue)
+
+Console-based .NET IDE with LSP IntelliSense, integrated git, multiple terminal modes, command palette, and 12+ syntax highlighters. Edit, build, test, and ship .NET projects without leaving the terminal.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nickprotop/lazydotide/main/docs/screenshots/main-editor.png" width="700" alt="LazyDotIDE Editor" />
+</p>
+
+---
+
 <sub>All projects are built with C# / .NET and run natively on Linux and Windows.</sub>
