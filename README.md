@@ -39,7 +39,17 @@ A .NET console window system with controls like TreeControl, ListControl, Toolba
 
 ---
 
-## Developer Tools
+## Applications & Tools
+
+### [CXPost](https://github.com/nickprotop/cxpost) &nbsp; ![Stars](https://img.shields.io/github/stars/nickprotop/cxpost?style=flat&color=blue)
+
+Cross-platform terminal email client with IMAP/SMTP support. Multi-account, compose/reply/forward, attachments, and full keyboard navigation — all from your terminal. Built with SharpConsoleUI.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nickprotop/cxpost/main/.github/dashboard-overview.png" width="700" alt="CXPost - Terminal Email Client" />
+</p>
+
+---
 
 ### [LocalizationManager (LRM)](https://github.com/nickprotop/LocalizationManager) &nbsp; ![Stars](https://img.shields.io/github/stars/nickprotop/LocalizationManager?style=flat&color=blue)
 
