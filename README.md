@@ -46,7 +46,7 @@ A .NET console window system with controls like TreeControl, ListControl, Toolba
 Cross-platform terminal email client with IMAP/SMTP support. Multi-account, compose/reply/forward, attachments, and full keyboard navigation — all from your terminal. Built with SharpConsoleUI.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/nickprotop/cxpost/main/.github/dashboard-overview.png" width="700" alt="CXPost - Terminal Email Client" />
+<img src="https://raw.githubusercontent.com/nickprotop/cxpost/master/.github/dashboard-overview.png" width="700" alt="CXPost - Terminal Email Client" />
 </p>
 
 ---
