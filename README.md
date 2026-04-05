@@ -27,8 +27,8 @@ A .NET console window system with controls like TreeControl, ListControl, Toolba
 </p>
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/nickprotop/ConsoleEx/master/docs/images/examples/consoletop-processes.png" width="700" alt="ConsoleTop - System Monitor" />
-<br><sub>ConsoleTop — htop-style system monitor with toolbar, tabs, and detail panels</sub>
+<img src="https://raw.githubusercontent.com/nickprotop/cxtop/main/.github/screenshot.png" width="700" alt="cxtop - System Monitor" />
+<br><sub>cxtop — ntop/btop-inspired system monitor with hardware dashboard and sparklines</sub>
 </p>
 <br>
 <p align="center">
@@ -47,6 +47,16 @@ Cross-platform terminal email client with IMAP/SMTP support. Multi-account, comp
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/nickprotop/cxpost/master/.github/dashboard-overview.png" width="700" alt="CXPost - Terminal Email Client" />
+</p>
+
+---
+
+### [cxtop](https://github.com/nickprotop/cxtop) &nbsp; ![Stars](https://img.shields.io/github/stars/nickprotop/cxtop?style=flat&color=blue)
+
+ntop/btop-inspired terminal system monitor. Real-time CPU, memory, network, storage monitoring with hardware identity dashboard, sparkline graphs, and process management. Built with SharpConsoleUI.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nickprotop/cxtop/main/.github/screenshot.png" width="700" alt="cxtop - System Monitor" />
 </p>
 
 ---
