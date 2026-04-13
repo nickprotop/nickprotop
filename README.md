@@ -61,6 +61,16 @@ ntop/btop-inspired terminal system monitor. Real-time CPU, memory, network, stor
 
 ---
 
+### [CXFiles](https://github.com/nickprotop/cxfiles) &nbsp; ![Stars](https://img.shields.io/github/stars/nickprotop/cxfiles?style=flat&color=blue)
+
+Cross-platform terminal file explorer with three-pane layout, trash support, clipboard portal, and sudo elevation. Browse, copy, move, delete — all from your terminal with keyboard-driven navigation. Built with SharpConsoleUI.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nickprotop/cxfiles/master/.github/screenshot.png" width="700" alt="CXFiles - Terminal File Explorer" />
+</p>
+
+---
+
 ### [LocalizationManager (LRM)](https://github.com/nickprotop/LocalizationManager) &nbsp; ![Stars](https://img.shields.io/github/stars/nickprotop/LocalizationManager?style=flat&color=blue)
 
 CLI tool and TUI editor for managing localization files. Supports `.resx`, JSON, i18next, Android XML, iOS `.strings`, PO, and XLIFF. Includes a Web UI, a VS Code extension, and a cloud platform.
